@@ -1,4 +1,7 @@
 ### Hi there 👋
+I love coordinating awesome software projects. I am learning how to use Github to manage a software project instead of Jira. I hope to check out all the Github features and find awesome project management plug-ins. If you have travelled this road too I would love to hear any tips you may have.
+
+Thanks! 😄
 
 <!--
 **Sharonbyrne/Sharonbyrne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
